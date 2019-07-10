@@ -1,2 +1,2 @@
-# TinyENgineDocs
+# TinyEngineDocs
 Documentation for TinyEngine
